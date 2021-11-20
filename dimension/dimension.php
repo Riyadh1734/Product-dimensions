@@ -1,7 +1,7 @@
 <?php 
 /**
- * Plugin Name: Dimension for Dokan, Woocommerce
- * Description: A plugin that show your products dimension
+ * Plugin Name: Product Dimensions
+ * Description: A product dimensions plugin that show your product dimensions on the product page for Dokan, WooCommerce
  * Plugin URI: http://sajuahmed.epizy.com/
  * Author: Riyadh Ahmed
  * Author URI: http://sajuahmed.epizy.com/
