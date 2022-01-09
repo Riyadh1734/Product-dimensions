@@ -20,8 +20,8 @@ function display_product_formated_dimensions_table(){
 
     if ( $product->has_dimensions() ) {
         echo '<table class="shop_attributes"><tr>
-            <th>' . __( 'Dimensions', 'woocommerce' ) . '</th>
-            <td class="product_dimensions">' . esc_html( wc_format_dimensions( $product->get_dimensions( false ) ) ) . '</td>
+            <th>' . __( 'Dimensions', 'woocommerce') . '</th>
+            <td class="product_dimensions">' . esc_html( wc_format_dimensions( $product-> get_dimensions( false))) . '</td>
         </tr></table>';
     }
 }
